@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SHANKAR3034
+- 👋 Hi, I’m @shankardevgithub
 - 👀 I’m interested in Gaming and coding
 - 🌱 I’m currently learning CSE
 - 💞️ I’m looking to collaborate on ...
